@@ -9,6 +9,6 @@ df['Jahr'] = np.where(df['Winterweizen'].isna(), df['Kreis-Id'], np.nan)
 
 df['Jahr'] = df['Jahr'].ffill()
 
+df.clean = df.dropna()
 
-
-print(df.head())
+print(df.clean.head())
