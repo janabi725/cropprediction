@@ -1,0 +1,17 @@
+# Byte-kompilierte / optimierte / DLL-Dateien
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuelle Umgebung
+venv/
+.venv/
+env/
+
+# IDE-Konfigurationen
+.vscode/
+.idea/
+
+# Protokolle und Datenbanken
+*.log
+*.sqlite3
