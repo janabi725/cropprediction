@@ -9,6 +9,11 @@ df['Jahr'] = np.where(df['Winterweizen'].isna(), df['Kreis-Id'], np.nan)
 
 df['Jahr'] = df['Jahr'].ffill()
 
-df.clean = df.dropna()
+df = df.dropna()
 
-print(df.clean.head())
+
+print(df.head())
+
+filepath = "/Users/sohailludin/Desktop/01 Arbeit/01 Universität /03 Master/02 2. Semester/06 Softwarearchitekturen/Labor/cropprediction/data/clean.csv"
+
+df.to_csv(filepath)
