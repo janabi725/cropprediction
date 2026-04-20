@@ -28,6 +28,10 @@ bawu_winterweizen_slash = bawu_winterweizen[~bawu_winterweizen['Winterweizen'].s
 
 bawu_winterweizen_nodash = bawu_winterweizen_slash[~bawu_winterweizen_slash['Winterweizen'].str.contains('.', regex = False)]
 
+bawu_winterweizen_nodash['Winterweizen'] = bawu_winterweizen_nodash['Winterweizen'].astype(str).str.replace(",", ".")
+
+bawu_winterweizen_nodash['Winterweizen'] = pd.to_numeric(bawu_winterweizen_nodash['Winterweizen'], errors = 'coerce')
+
 bawu_winterweizen_nodash.to_csv(file_winterweizen_yield)
 
 print(bawu_winterweizen_nodash.head())
