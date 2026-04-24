@@ -4,6 +4,7 @@ import folium
 from streamlit_folium import st_folium
 import pandas as pd
 import joblib
+import branca.colormap as cm
 
 
 @st.cache_resource
@@ -39,28 +40,54 @@ st.title("Ertragsprognose Baden-Württemberg")
 
 gdf = get_predictions()
 
+# remove blue highlight when clicking
+st.markdown("""
+    <style>
+    path.leaflet-interactive:focus {
+        outline: none;
+    }
+    </style>
+    """, unsafe_allow_html=True)
+
+min_yield = gdf['Prognose_dt_ha'].min()
+max_yield = gdf['Prognose_dt_ha'].max()
+if pd.isna(min_yield): min_yield, max_yield = 0, 100
+colormap = cm.linear.YlGn_09.scale(min_yield, max_yield)
+colormap.caption = 'Prognostizierter Ertrag (dt/ha)'
+
 # map creation    
 m = folium.Map(location=[48.5, 9.0], zoom_start=8, tiles=None)
 
 folium.TileLayer(
     tiles='https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
-    attr='Esri',
-    name='Satellitenbild',
-    overlay=False,
-    control=True
+    attr='Esri', name='Satellitenbild'
 ).add_to(m)
 
-folium.Choropleth(
-    geo_data=gdf,
-    name='Ertragsprognose',
-    data=gdf,
-    columns=['Kreis-Id', 'Prognose_dt_ha'],
-    key_on='feature.properties.ARS',
-    fill_color='YlGn',              
-    fill_opacity=0.6,               
-    line_opacity=0.5,
-    legend_name='Prognostizierter Ertrag (dt/ha)'
+# 3. Das Choropleth-Objekt mit Highlight-Effekt
+# Wir nutzen hier eine GeoJson-Ebene direkt, da sie feiner steuerbar ist als das Standard-Choropleth
+folium.GeoJson(
+    gdf,
+    style_function=lambda x: {
+        'fillColor': colormap(x['properties']['Prognose_dt_ha']) 
+                     if x['properties']['Prognose_dt_ha'] is not None else 'transparent',
+        'color': 'black',
+        'weight': 0.5,
+        'fillOpacity': 0.6
+    },
+    highlight_function=lambda x: {
+        'weight': 3,
+        'color': 'yellow',
+        'fillOpacity': 0.8
+    },
+    popup=folium.GeoJsonPopup(
+        fields=['Kreis-Id', 'Prognose_dt_ha'],
+        aliases=['Landkreis ID:', 'Prognose (dt/ha):'],
+        labels=True
+    )
 ).add_to(m)
+
+# 4. Legende zur Karte hinzufügen
+colormap.add_to(m)
 
 st_data = st_folium(
     m, 
