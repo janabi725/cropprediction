@@ -39,5 +39,7 @@ cropprediction/
 ├── data/               # Bereinigte CSV-Daten (Ertrag, Landkreise)
 ├── ml-pipeline/        # Skripte für Training und Validierung
 │   └── random_forest.py # Kern-Algorithmus (Regression)
+├── app/
+│   └── app.py 			# interaktives frontend
 ├── requirements.txt    # Projektabhängigkeiten
 └── README.md
