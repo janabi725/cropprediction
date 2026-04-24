@@ -13,7 +13,7 @@ def load_rf_model():
 
 @st.cache_data
 def get_predictions():
-    gdf = gpd.read_file("landkreise_bawu_sauber.geojson")
+    gdf = gpd.read_file("../data/geodaten_pipeline/processed/landkreise_bawu_sauber.geojson")
     
     input_data = pd.read_csv('../ml-pipeline/features_2024_für_app.csv')
 

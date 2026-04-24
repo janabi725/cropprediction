@@ -18,3 +18,5 @@ env/
 
 #DataFrame
 .DS_Store
+
+data/geodaten_pipeline/
