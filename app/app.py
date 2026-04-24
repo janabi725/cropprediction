@@ -68,15 +68,18 @@ folium.TileLayer(
 folium.GeoJson(
     gdf,
     style_function=lambda x: {
+        # Hier ist der Trick: 
+        # Wir prüfen, ob der Wert existiert. Wenn ja -> Colormap, wenn nein -> Grau.
         'fillColor': colormap(x['properties']['Prognose_dt_ha']) 
-                     if x['properties']['Prognose_dt_ha'] is not None else 'transparent',
+                     if pd.notna(x['properties']['Prognose_dt_ha']) 
+                     else '#4a4a4a', # Das Grau für "No Data"
         'color': 'black',
         'weight': 0.5,
         'fillOpacity': 0.6
     },
     highlight_function=lambda x: {
         'weight': 3,
-        'color': 'yellow',
+        'color': '#333333', 
         'fillOpacity': 0.8
     },
     popup=folium.GeoJsonPopup(
@@ -93,6 +96,7 @@ st_data = st_folium(
     m, 
     width=800, 
     height=600,
-    returned_objects=["last_active_drawing"],
+    key='bw_map',
+    returned_objects=[],
     zoom=8
 )
