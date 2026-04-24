@@ -37,6 +37,7 @@ Das Projekt folgt einem 3-Phasen-Sprint-Plan:
 ```text
 cropprediction/
 ├── data/               # Bereinigte CSV-Daten (Ertrag, Landkreise)
+│   └── load_data.py    # Läd und bereinigt bkg daten für Landkreise
 ├── ml-pipeline/        # Skripte für Training und Validierung
 │   └── random_forest.py # Kern-Algorithmus (Regression)
 ├── app/
