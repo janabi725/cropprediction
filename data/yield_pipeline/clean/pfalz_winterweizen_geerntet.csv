@@ -1,0 +1,560 @@
+,Jahr,Kreis-Id, Stadt,Winterweizen
+7,2025,07137,"      Mayen-Koblenz, Landkreis",77.4
+9,2025,07140,      Rhein-Hunsrück-Kreis,86.1
+10,2025,07141,      Rhein-Lahn-Kreis,86.7
+11,2025,07143,      Westerwaldkreis,69.2
+13,2025,07231,"      Bernkastel-Wittlich, Landkreis",70.7
+14,2025,07232,      Eifelkreis Bitburg-Prüm,70.3
+16,2025,07235,"      Trier-Saarburg, Landkreis",84.0
+27,2025,07331,"      Alzey-Worms, Landkreis",74.3
+29,2025,07333,      Donnersbergkreis,74.9
+30,2025,07334,"      Germersheim, Landkreis",81.0
+32,2025,07336,"      Kusel, Landkreis",63.4
+33,2025,07337,"      Südliche Weinstraße, Landkreis",80.8
+34,2025,07338,      Rhein-Pfalz-Kreis,73.4
+35,2025,07339,"      Mainz-Bingen, Landkreis",76.1
+36,2025,07340,"      Südwestpfalz, Landkreis",74.1
+41,2024,07133,"      Bad Kreuznach, Landkreis",73.0
+44,2024,07137,"      Mayen-Koblenz, Landkreis",67.0
+46,2024,07140,      Rhein-Hunsrück-Kreis,65.5
+47,2024,07141,      Rhein-Lahn-Kreis,71.1
+48,2024,07143,      Westerwaldkreis,57.3
+50,2024,07231,"      Bernkastel-Wittlich, Landkreis",61.2
+51,2024,07232,      Eifelkreis Bitburg-Prüm,58.3
+52,2024,07233,"      Vulkaneifel, Landkreis",53.0
+53,2024,07235,"      Trier-Saarburg, Landkreis",76.8
+64,2024,07331,"      Alzey-Worms, Landkreis",74.1
+66,2024,07333,      Donnersbergkreis,79.6
+67,2024,07334,"      Germersheim, Landkreis",71.0
+69,2024,07336,"      Kusel, Landkreis",54.1
+70,2024,07337,"      Südliche Weinstraße, Landkreis",64.5
+71,2024,07338,      Rhein-Pfalz-Kreis,67.4
+72,2024,07339,"      Mainz-Bingen, Landkreis",76.3
+73,2024,07340,"      Südwestpfalz, Landkreis",54.4
+78,2023,07133,"      Bad Kreuznach, Landkreis",69.7
+79,2023,07134,"      Birkenfeld, Landkreis",51.7
+81,2023,07137,"      Mayen-Koblenz, Landkreis",74.4
+83,2023,07140,      Rhein-Hunsrück-Kreis,75.6
+84,2023,07141,      Rhein-Lahn-Kreis,79.8
+85,2023,07143,      Westerwaldkreis,70.7
+87,2023,07231,"      Bernkastel-Wittlich, Landkreis",65.5
+88,2023,07232,      Eifelkreis Bitburg-Prüm,65.2
+90,2023,07235,"      Trier-Saarburg, Landkreis",77.2
+101,2023,07331,"      Alzey-Worms, Landkreis",72.7
+103,2023,07333,      Donnersbergkreis,70.2
+104,2023,07334,"      Germersheim, Landkreis",73.7
+106,2023,07336,"      Kusel, Landkreis",61.0
+107,2023,07337,"      Südliche Weinstraße, Landkreis",81.1
+108,2023,07338,      Rhein-Pfalz-Kreis,67.7
+109,2023,07339,"      Mainz-Bingen, Landkreis",71.7
+110,2023,07340,"      Südwestpfalz, Landkreis",60.8
+115,2022,07133,"      Bad Kreuznach, Landkreis",75.7
+118,2022,07137,"      Mayen-Koblenz, Landkreis",83.7
+120,2022,07140,      Rhein-Hunsrück-Kreis,89.0
+121,2022,07141,      Rhein-Lahn-Kreis,87.1
+122,2022,07143,      Westerwaldkreis,72.2
+124,2022,07231,"      Bernkastel-Wittlich, Landkreis",70.5
+125,2022,07232,      Eifelkreis Bitburg-Prüm,70.9
+127,2022,07235,"      Trier-Saarburg, Landkreis",71.7
+138,2022,07331,"      Alzey-Worms, Landkreis",69.7
+140,2022,07333,      Donnersbergkreis,70.0
+141,2022,07334,"      Germersheim, Landkreis",76.5
+143,2022,07336,"      Kusel, Landkreis",69.8
+144,2022,07337,"      Südliche Weinstraße, Landkreis",78.0
+145,2022,07338,      Rhein-Pfalz-Kreis,72.8
+146,2022,07339,"      Mainz-Bingen, Landkreis",72.6
+147,2022,07340,"      Südwestpfalz, Landkreis",75.4
+152,2021,07133,"      Bad Kreuznach, Landkreis",66.6
+155,2021,07137,"      Mayen-Koblenz, Landkreis",76.2
+157,2021,07140,      Rhein-Hunsrück-Kreis,77.1
+158,2021,07141,      Rhein-Lahn-Kreis,76.6
+159,2021,07143,      Westerwaldkreis,62.9
+161,2021,07231,"      Bernkastel-Wittlich, Landkreis",71.7
+162,2021,07232,      Eifelkreis Bitburg-Prüm,70.8
+163,2021,07233,"      Vulkaneifel, Landkreis",68.2
+164,2021,07235,"      Trier-Saarburg, Landkreis",79.0
+175,2021,07331,"      Alzey-Worms, Landkreis",75.7
+176,2021,07332,"      Bad Dürkheim, Landkreis",76.5
+177,2021,07333,      Donnersbergkreis,79.4
+178,2021,07334,"      Germersheim, Landkreis",70.4
+180,2021,07336,"      Kusel, Landkreis",73.6
+181,2021,07337,"      Südliche Weinstraße, Landkreis",76.4
+183,2021,07339,"      Mainz-Bingen, Landkreis",71.3
+184,2021,07340,"      Südwestpfalz, Landkreis",74.2
+189,2020,07133,"      Bad Kreuznach, Landkreis",77.6
+192,2020,07137,"      Mayen-Koblenz, Landkreis",79.0
+194,2020,07140,      Rhein-Hunsrück-Kreis,85.5
+195,2020,07141,      Rhein-Lahn-Kreis,86.6
+196,2020,07143,      Westerwaldkreis,72.3
+198,2020,07231,"      Bernkastel-Wittlich, Landkreis",74.3
+199,2020,07232,      Eifelkreis Bitburg-Prüm,64.8
+200,2020,07233,"      Vulkaneifel, Landkreis",60.3
+201,2020,07235,"      Trier-Saarburg, Landkreis",84.0
+212,2020,07331,"      Alzey-Worms, Landkreis",80.4
+213,2020,07332,"      Bad Dürkheim, Landkreis",81.5
+214,2020,07333,      Donnersbergkreis,77.2
+215,2020,07334,"      Germersheim, Landkreis",79.4
+217,2020,07336,"      Kusel, Landkreis",64.5
+218,2020,07337,"      Südliche Weinstraße, Landkreis",88.0
+219,2020,07338,      Rhein-Pfalz-Kreis,75.0
+220,2020,07339,"      Mainz-Bingen, Landkreis",77.4
+221,2020,07340,"      Südwestpfalz, Landkreis",74.7
+225,2019,07132,"      Altenkirchen (Westerwald), Landkreis",47.2
+226,2019,07133,"      Bad Kreuznach, Landkreis",70.4
+228,2019,07135,"      Cochem-Zell, Landkreis",81.4
+229,2019,07137,"      Mayen-Koblenz, Landkreis",75.4
+231,2019,07140,      Rhein-Hunsrück-Kreis,85.8
+232,2019,07141,      Rhein-Lahn-Kreis,81.4
+233,2019,07143,      Westerwaldkreis,72.3
+235,2019,07231,"      Bernkastel-Wittlich, Landkreis",77.3
+236,2019,07232,      Eifelkreis Bitburg-Prüm,74.8
+237,2019,07233,"      Vulkaneifel, Landkreis",65.7
+238,2019,07235,"      Trier-Saarburg, Landkreis",71.6
+249,2019,07331,"      Alzey-Worms, Landkreis",68.0
+250,2019,07332,"      Bad Dürkheim, Landkreis",69.7
+251,2019,07333,      Donnersbergkreis,72.8
+252,2019,07334,"      Germersheim, Landkreis",74.4
+254,2019,07336,"      Kusel, Landkreis",69.8
+255,2019,07337,"      Südliche Weinstraße, Landkreis",82.6
+256,2019,07338,      Rhein-Pfalz-Kreis,76.5
+257,2019,07339,"      Mainz-Bingen, Landkreis",70.7
+258,2019,07340,"      Südwestpfalz, Landkreis",57.2
+261,2018,07131,"      Ahrweiler, Landkreis",77.1
+263,2018,07133,"      Bad Kreuznach, Landkreis",76.8
+266,2018,07137,"      Mayen-Koblenz, Landkreis",79.4
+268,2018,07140,      Rhein-Hunsrück-Kreis,82.4
+269,2018,07141,      Rhein-Lahn-Kreis,74.9
+270,2018,07143,      Westerwaldkreis,63.3
+272,2018,07231,"      Bernkastel-Wittlich, Landkreis",70.5
+273,2018,07232,      Eifelkreis Bitburg-Prüm,66.9
+274,2018,07233,"      Vulkaneifel, Landkreis",62.8
+275,2018,07235,"      Trier-Saarburg, Landkreis",83.7
+286,2018,07331,"      Alzey-Worms, Landkreis",79.2
+287,2018,07332,"      Bad Dürkheim, Landkreis",76.2
+288,2018,07333,      Donnersbergkreis,76.0
+289,2018,07334,"      Germersheim, Landkreis",66.8
+291,2018,07336,"      Kusel, Landkreis",67.4
+292,2018,07337,"      Südliche Weinstraße, Landkreis",80.2
+293,2018,07338,      Rhein-Pfalz-Kreis,73.2
+294,2018,07339,"      Mainz-Bingen, Landkreis",75.1
+295,2018,07340,"      Südwestpfalz, Landkreis",74.1
+298,2017,07131,"      Ahrweiler, Landkreis",77.5
+299,2017,07132,"      Altenkirchen (Westerwald), Landkreis",84.5
+300,2017,07133,"      Bad Kreuznach, Landkreis",69.3
+301,2017,07134,"      Birkenfeld, Landkreis",59.5
+302,2017,07135,"      Cochem-Zell, Landkreis",71.8
+303,2017,07137,"      Mayen-Koblenz, Landkreis",69.0
+305,2017,07140,      Rhein-Hunsrück-Kreis,78.7
+306,2017,07141,      Rhein-Lahn-Kreis,76.3
+307,2017,07143,      Westerwaldkreis,67.0
+309,2017,07231,"      Bernkastel-Wittlich, Landkreis",65.9
+310,2017,07232,      Eifelkreis Bitburg-Prüm,61.0
+311,2017,07233,"      Vulkaneifel, Landkreis",46.7
+312,2017,07235,"      Trier-Saarburg, Landkreis",67.6
+323,2017,07331,"      Alzey-Worms, Landkreis",69.5
+324,2017,07332,"      Bad Dürkheim, Landkreis",66.9
+325,2017,07333,      Donnersbergkreis,69.0
+326,2017,07334,"      Germersheim, Landkreis",71.2
+328,2017,07336,"      Kusel, Landkreis",58.8
+329,2017,07337,"      Südliche Weinstraße, Landkreis",74.0
+330,2017,07338,      Rhein-Pfalz-Kreis,74.3
+331,2017,07339,"      Mainz-Bingen, Landkreis",70.5
+332,2017,07340,"      Südwestpfalz, Landkreis",74.0
+337,2016,07133,"      Bad Kreuznach, Landkreis",70.3
+338,2016,07134,"      Birkenfeld, Landkreis",68.3
+339,2016,07135,"      Cochem-Zell, Landkreis",78.7
+340,2016,07137,"      Mayen-Koblenz, Landkreis",62.3
+341,2016,07138,"      Neuwied, Landkreis",58.0
+342,2016,07140,      Rhein-Hunsrück-Kreis,69.2
+343,2016,07141,      Rhein-Lahn-Kreis,65.5
+344,2016,07143,      Westerwaldkreis,52.1
+346,2016,07231,"      Bernkastel-Wittlich, Landkreis",64.6
+347,2016,07232,      Eifelkreis Bitburg-Prüm,62.6
+348,2016,07233,"      Vulkaneifel, Landkreis",65.4
+349,2016,07235,"      Trier-Saarburg, Landkreis",72.3
+360,2016,07331,"      Alzey-Worms, Landkreis",68.6
+361,2016,07332,"      Bad Dürkheim, Landkreis",65.9
+362,2016,07333,      Donnersbergkreis,71.4
+363,2016,07334,"      Germersheim, Landkreis",54.7
+365,2016,07336,"      Kusel, Landkreis",58.5
+366,2016,07337,"      Südliche Weinstraße, Landkreis",62.5
+367,2016,07338,      Rhein-Pfalz-Kreis,60.3
+368,2016,07339,"      Mainz-Bingen, Landkreis",72.2
+369,2016,07340,"      Südwestpfalz, Landkreis",53.8
+373,2015,07132,"      Altenkirchen (Westerwald), Landkreis",80.6
+374,2015,07133,"      Bad Kreuznach, Landkreis",71.9
+376,2015,07135,"      Cochem-Zell, Landkreis",75.4
+377,2015,07137,"      Mayen-Koblenz, Landkreis",84.6
+379,2015,07140,      Rhein-Hunsrück-Kreis,72.4
+380,2015,07141,      Rhein-Lahn-Kreis,78.5
+381,2015,07143,      Westerwaldkreis,75.6
+383,2015,07231,"      Bernkastel-Wittlich, Landkreis",65.8
+384,2015,07232,      Eifelkreis Bitburg-Prüm,68.1
+386,2015,07235,"      Trier-Saarburg, Landkreis",69.0
+397,2015,07331,"      Alzey-Worms, Landkreis",79.4
+398,2015,07332,"      Bad Dürkheim, Landkreis",65.9
+399,2015,07333,      Donnersbergkreis,64.5
+400,2015,07334,"      Germersheim, Landkreis",76.0
+401,2015,07335,"      Kaiserslautern, Landkreis",83.6
+402,2015,07336,"      Kusel, Landkreis",63.3
+403,2015,07337,"      Südliche Weinstraße, Landkreis",85.0
+404,2015,07338,      Rhein-Pfalz-Kreis,74.6
+405,2015,07339,"      Mainz-Bingen, Landkreis",76.4
+406,2015,07340,"      Südwestpfalz, Landkreis",69.1
+411,2014,07133,"      Bad Kreuznach, Landkreis",68.5
+413,2014,07135,"      Cochem-Zell, Landkreis",71.6
+414,2014,07137,"      Mayen-Koblenz, Landkreis",73.6
+416,2014,07140,      Rhein-Hunsrück-Kreis,78.5
+417,2014,07141,      Rhein-Lahn-Kreis,76.6
+418,2014,07143,      Westerwaldkreis,67.1
+420,2014,07231,"      Bernkastel-Wittlich, Landkreis",66.2
+421,2014,07232,      Eifelkreis Bitburg-Prüm,68.5
+422,2014,07233,"      Vulkaneifel, Landkreis",74.3
+423,2014,07235,"      Trier-Saarburg, Landkreis",70.1
+434,2014,07331,"      Alzey-Worms, Landkreis",77.1
+435,2014,07332,"      Bad Dürkheim, Landkreis",72.1
+436,2014,07333,      Donnersbergkreis,71.8
+437,2014,07334,"      Germersheim, Landkreis",72.1
+439,2014,07336,"      Kusel, Landkreis",65.5
+440,2014,07337,"      Südliche Weinstraße, Landkreis",75.7
+441,2014,07338,      Rhein-Pfalz-Kreis,73.8
+442,2014,07339,"      Mainz-Bingen, Landkreis",75.5
+443,2014,07340,"      Südwestpfalz, Landkreis",70.6
+448,2013,07133,"      Bad Kreuznach, Landkreis",73.7
+450,2013,07135,"      Cochem-Zell, Landkreis",80.3
+451,2013,07137,"      Mayen-Koblenz, Landkreis",80.3
+453,2013,07140,      Rhein-Hunsrück-Kreis,84.4
+454,2013,07141,      Rhein-Lahn-Kreis,81.6
+457,2013,07231,"      Bernkastel-Wittlich, Landkreis",75.9
+458,2013,07232,      Eifelkreis Bitburg-Prüm,71.2
+459,2013,07233,"      Vulkaneifel, Landkreis",73.9
+460,2013,07235,"      Trier-Saarburg, Landkreis",75.5
+471,2013,07331,"      Alzey-Worms, Landkreis",79.1
+472,2013,07332,"      Bad Dürkheim, Landkreis",77.3
+473,2013,07333,      Donnersbergkreis,83.9
+474,2013,07334,"      Germersheim, Landkreis",71.3
+476,2013,07336,"      Kusel, Landkreis",68.7
+477,2013,07337,"      Südliche Weinstraße, Landkreis",82.8
+478,2013,07338,      Rhein-Pfalz-Kreis,76.6
+479,2013,07339,"      Mainz-Bingen, Landkreis",80.9
+480,2013,07340,"      Südwestpfalz, Landkreis",69.2
+485,2012,07133,"      Bad Kreuznach, Landkreis",63.1
+488,2012,07137,"      Mayen-Koblenz, Landkreis",62.7
+489,2012,07138,"      Neuwied, Landkreis",50.6
+490,2012,07140,      Rhein-Hunsrück-Kreis,63.0
+491,2012,07141,      Rhein-Lahn-Kreis,54.1
+492,2012,07143,      Westerwaldkreis,58.2
+494,2012,07231,"      Bernkastel-Wittlich, Landkreis",65.2
+495,2012,07232,      Eifelkreis Bitburg-Prüm,68.9
+496,2012,07233,"      Vulkaneifel, Landkreis",65.3
+497,2012,07235,"      Trier-Saarburg, Landkreis",76.3
+508,2012,07331,"      Alzey-Worms, Landkreis",70.9
+509,2012,07332,"      Bad Dürkheim, Landkreis",69.7
+510,2012,07333,      Donnersbergkreis,66.7
+511,2012,07334,"      Germersheim, Landkreis",64.2
+512,2012,07335,"      Kaiserslautern, Landkreis",72.9
+513,2012,07336,"      Kusel, Landkreis",57.5
+514,2012,07337,"      Südliche Weinstraße, Landkreis",74.1
+515,2012,07338,      Rhein-Pfalz-Kreis,70.2
+516,2012,07339,"      Mainz-Bingen, Landkreis",71.0
+517,2012,07340,"      Südwestpfalz, Landkreis",70.9
+521,2011,07132,"      Altenkirchen (Westerwald), Landkreis",52.8
+522,2011,07133,"      Bad Kreuznach, Landkreis",57.4
+524,2011,07135,"      Cochem-Zell, Landkreis",64.2
+525,2011,07137,"      Mayen-Koblenz, Landkreis",62.6
+526,2011,07138,"      Neuwied, Landkreis",59.8
+527,2011,07140,      Rhein-Hunsrück-Kreis,71.7
+528,2011,07141,      Rhein-Lahn-Kreis,66.9
+529,2011,07143,      Westerwaldkreis,66.3
+531,2011,07231,"      Bernkastel-Wittlich, Landkreis",57.8
+532,2011,07232,      Eifelkreis Bitburg-Prüm,58.8
+533,2011,07233,"      Vulkaneifel, Landkreis",62.7
+534,2011,07235,"      Trier-Saarburg, Landkreis",70.9
+545,2011,07331,"      Alzey-Worms, Landkreis",58.3
+546,2011,07332,"      Bad Dürkheim, Landkreis",58.0
+547,2011,07333,      Donnersbergkreis,53.8
+548,2011,07334,"      Germersheim, Landkreis",65.2
+550,2011,07336,"      Kusel, Landkreis",44.6
+551,2011,07337,"      Südliche Weinstraße, Landkreis",71.3
+552,2011,07338,      Rhein-Pfalz-Kreis,57.9
+553,2011,07339,"      Mainz-Bingen, Landkreis",64.3
+554,2011,07340,"      Südwestpfalz, Landkreis",55.0
+558,2010,07132,"      Altenkirchen (Westerwald), Landkreis",48.8
+559,2010,07133,"      Bad Kreuznach, Landkreis",72.2
+560,2010,07134,"      Birkenfeld, Landkreis",63.5
+561,2010,07135,"      Cochem-Zell, Landkreis",65.2
+562,2010,07137,"      Mayen-Koblenz, Landkreis",68.2
+563,2010,07138,"      Neuwied, Landkreis",60.3
+564,2010,07140,      Rhein-Hunsrück-Kreis,81.5
+565,2010,07141,      Rhein-Lahn-Kreis,74.7
+566,2010,07143,      Westerwaldkreis,61.7
+568,2010,07231,"      Bernkastel-Wittlich, Landkreis",68.7
+569,2010,07232,      Eifelkreis Bitburg-Prüm,62.9
+570,2010,07233,"      Vulkaneifel, Landkreis",56.9
+571,2010,07235,"      Trier-Saarburg, Landkreis",69.6
+582,2010,07331,"      Alzey-Worms, Landkreis",74.8
+583,2010,07332,"      Bad Dürkheim, Landkreis",70.9
+584,2010,07333,      Donnersbergkreis,73.2
+585,2010,07334,"      Germersheim, Landkreis",70.4
+587,2010,07336,"      Kusel, Landkreis",58.2
+588,2010,07337,"      Südliche Weinstraße, Landkreis",75.3
+589,2010,07338,      Rhein-Pfalz-Kreis,76.7
+590,2010,07339,"      Mainz-Bingen, Landkreis",77.6
+591,2010,07340,"      Südwestpfalz, Landkreis",58.0
+595,2009,07132,"      Altenkirchen (Westerwald), Landkreis",57.7
+596,2009,07133,"      Bad Kreuznach, Landkreis",73.3
+597,2009,07134,"      Birkenfeld, Landkreis",61.6
+598,2009,07135,"      Cochem-Zell, Landkreis",76.2
+599,2009,07137,"      Mayen-Koblenz, Landkreis",77.3
+600,2009,07138,"      Neuwied, Landkreis",63.7
+601,2009,07140,      Rhein-Hunsrück-Kreis,82.9
+602,2009,07141,      Rhein-Lahn-Kreis,78.7
+603,2009,07143,      Westerwaldkreis,59.9
+605,2009,07231,"      Bernkastel-Wittlich, Landkreis",70.0
+606,2009,07232,      Eifelkreis Bitburg-Prüm,71.6
+607,2009,07233,"      Vulkaneifel, Landkreis",69.5
+608,2009,07235,"      Trier-Saarburg, Landkreis",71.3
+619,2009,07331,"      Alzey-Worms, Landkreis",80.4
+620,2009,07332,"      Bad Dürkheim, Landkreis",76.9
+621,2009,07333,      Donnersbergkreis,74.5
+622,2009,07334,"      Germersheim, Landkreis",71.3
+624,2009,07336,"      Kusel, Landkreis",69.3
+625,2009,07337,"      Südliche Weinstraße, Landkreis",77.4
+626,2009,07338,      Rhein-Pfalz-Kreis,73.8
+627,2009,07339,"      Mainz-Bingen, Landkreis",74.4
+628,2009,07340,"      Südwestpfalz, Landkreis",71.5
+632,2008,07132,"      Altenkirchen (Westerwald), Landkreis",64.1
+633,2008,07133,"      Bad Kreuznach, Landkreis",70.3
+634,2008,07134,"      Birkenfeld, Landkreis",59.9
+635,2008,07135,"      Cochem-Zell, Landkreis",75.7
+636,2008,07137,"      Mayen-Koblenz, Landkreis",77.6
+637,2008,07138,"      Neuwied, Landkreis",65.2
+638,2008,07140,      Rhein-Hunsrück-Kreis,81.3
+639,2008,07141,      Rhein-Lahn-Kreis,80.6
+640,2008,07143,      Westerwaldkreis,67.1
+642,2008,07231,"      Bernkastel-Wittlich, Landkreis",69.4
+643,2008,07232,      Eifelkreis Bitburg-Prüm,71.7
+644,2008,07233,"      Vulkaneifel, Landkreis",65.2
+645,2008,07235,"      Trier-Saarburg, Landkreis",72.7
+656,2008,07331,"      Alzey-Worms, Landkreis",79.3
+657,2008,07332,"      Bad Dürkheim, Landkreis",75.7
+658,2008,07333,      Donnersbergkreis,71.7
+659,2008,07334,"      Germersheim, Landkreis",68.7
+661,2008,07336,"      Kusel, Landkreis",62.2
+662,2008,07337,"      Südliche Weinstraße, Landkreis",80.1
+663,2008,07338,      Rhein-Pfalz-Kreis,73.3
+664,2008,07339,"      Mainz-Bingen, Landkreis",77.3
+665,2008,07340,"      Südwestpfalz, Landkreis",69.1
+668,2007,07131,"      Ahrweiler, Landkreis",72.8
+669,2007,07132,"      Altenkirchen (Westerwald), Landkreis",58.9
+670,2007,07133,"      Bad Kreuznach, Landkreis",65.6
+671,2007,07134,"      Birkenfeld, Landkreis",56.6
+672,2007,07135,"      Cochem-Zell, Landkreis",65.5
+673,2007,07137,"      Mayen-Koblenz, Landkreis",66.5
+674,2007,07138,"      Neuwied, Landkreis",60.0
+675,2007,07140,      Rhein-Hunsrück-Kreis,73.1
+676,2007,07141,      Rhein-Lahn-Kreis,66.6
+677,2007,07143,      Westerwaldkreis,56.4
+679,2007,07231,"      Bernkastel-Wittlich, Landkreis",61.4
+680,2007,07232,      Eifelkreis Bitburg-Prüm,59.4
+681,2007,07233,"      Vulkaneifel, Landkreis",53.1
+682,2007,07235,"      Trier-Saarburg, Landkreis",65.7
+693,2007,07331,"      Alzey-Worms, Landkreis",63.6
+694,2007,07332,"      Bad Dürkheim, Landkreis",61.2
+695,2007,07333,      Donnersbergkreis,61.9
+696,2007,07334,"      Germersheim, Landkreis",57.8
+698,2007,07336,"      Kusel, Landkreis",56.7
+699,2007,07337,"      Südliche Weinstraße, Landkreis",66.9
+700,2007,07338,      Rhein-Pfalz-Kreis,59.4
+701,2007,07339,"      Mainz-Bingen, Landkreis",64.1
+702,2007,07340,"      Südwestpfalz, Landkreis",54.5
+706,2006,07132,"      Altenkirchen (Westerwald), Landkreis",63.7
+707,2006,07133,"      Bad Kreuznach, Landkreis",67.9
+708,2006,07134,"      Birkenfeld, Landkreis",60.4
+709,2006,07135,"      Cochem-Zell, Landkreis",73.6
+710,2006,07137,"      Mayen-Koblenz, Landkreis",71.8
+711,2006,07138,"      Neuwied, Landkreis",66.9
+712,2006,07140,      Rhein-Hunsrück-Kreis,71.5
+713,2006,07141,      Rhein-Lahn-Kreis,74.4
+714,2006,07143,      Westerwaldkreis,64.8
+716,2006,07231,"      Bernkastel-Wittlich, Landkreis",71.0
+717,2006,07232,      Eifelkreis Bitburg-Prüm,64.4
+718,2006,07233,"      Vulkaneifel, Landkreis",56.1
+719,2006,07235,"      Trier-Saarburg, Landkreis",69.0
+730,2006,07331,"      Alzey-Worms, Landkreis",77.8
+731,2006,07332,"      Bad Dürkheim, Landkreis",67.0
+732,2006,07333,      Donnersbergkreis,73.0
+733,2006,07334,"      Germersheim, Landkreis",65.8
+735,2006,07336,"      Kusel, Landkreis",64.4
+736,2006,07337,"      Südliche Weinstraße, Landkreis",73.7
+737,2006,07338,      Rhein-Pfalz-Kreis,69.0
+738,2006,07339,"      Mainz-Bingen, Landkreis",72.0
+739,2006,07340,"      Südwestpfalz, Landkreis",61.7
+742,2005,07131,"      Ahrweiler, Landkreis",63.0
+743,2005,07132,"      Altenkirchen (Westerwald), Landkreis",64.2
+744,2005,07133,"      Bad Kreuznach, Landkreis",61.7
+745,2005,07134,"      Birkenfeld, Landkreis",61.9
+746,2005,07135,"      Cochem-Zell, Landkreis",69.0
+747,2005,07137,"      Mayen-Koblenz, Landkreis",69.1
+748,2005,07138,"      Neuwied, Landkreis",62.0
+749,2005,07140,      Rhein-Hunsrück-Kreis,70.3
+750,2005,07141,      Rhein-Lahn-Kreis,73.6
+751,2005,07143,      Westerwaldkreis,65.1
+753,2005,07231,"      Bernkastel-Wittlich, Landkreis",66.0
+754,2005,07232,      Eifelkreis Bitburg-Prüm,63.9
+755,2005,07233,"      Vulkaneifel, Landkreis",57.6
+756,2005,07235,"      Trier-Saarburg, Landkreis",64.0
+767,2005,07331,"      Alzey-Worms, Landkreis",57.3
+768,2005,07332,"      Bad Dürkheim, Landkreis",54.6
+769,2005,07333,      Donnersbergkreis,59.2
+770,2005,07334,"      Germersheim, Landkreis",58.5
+771,2005,07335,"      Kaiserslautern, Landkreis",59.6
+772,2005,07336,"      Kusel, Landkreis",59.8
+773,2005,07337,"      Südliche Weinstraße, Landkreis",69.7
+774,2005,07338,      Rhein-Pfalz-Kreis,54.5
+775,2005,07339,"      Mainz-Bingen, Landkreis",61.0
+776,2005,07340,"      Südwestpfalz, Landkreis",61.9
+779,2004,07131,"      Ahrweiler, Landkreis",71.7
+780,2004,07132,"      Altenkirchen (Westerwald), Landkreis",66.4
+781,2004,07133,"      Bad Kreuznach, Landkreis",72.1
+782,2004,07134,"      Birkenfeld, Landkreis",66.9
+783,2004,07135,"      Cochem-Zell, Landkreis",76.5
+784,2004,07137,"      Mayen-Koblenz, Landkreis",78.9
+785,2004,07138,"      Neuwied, Landkreis",72.2
+786,2004,07140,      Rhein-Hunsrück-Kreis,79.4
+787,2004,07141,      Rhein-Lahn-Kreis,82.8
+788,2004,07143,      Westerwaldkreis,65.9
+790,2004,07231,"      Bernkastel-Wittlich, Landkreis",73.6
+791,2004,07232,      Eifelkreis Bitburg-Prüm,67.0
+792,2004,07233,"      Vulkaneifel, Landkreis",59.5
+793,2004,07235,"      Trier-Saarburg, Landkreis",72.8
+804,2004,07331,"      Alzey-Worms, Landkreis",74.4
+805,2004,07332,"      Bad Dürkheim, Landkreis",75.8
+806,2004,07333,      Donnersbergkreis,76.5
+807,2004,07334,"      Germersheim, Landkreis",70.5
+808,2004,07335,"      Kaiserslautern, Landkreis",73.4
+809,2004,07336,"      Kusel, Landkreis",73.5
+810,2004,07337,"      Südliche Weinstraße, Landkreis",77.4
+811,2004,07338,      Rhein-Pfalz-Kreis,70.5
+812,2004,07339,"      Mainz-Bingen, Landkreis",82.1
+813,2004,07340,"      Südwestpfalz, Landkreis",71.0
+816,2003,07131,"      Ahrweiler, Landkreis",59.6
+817,2003,07132,"      Altenkirchen (Westerwald), Landkreis",57.6
+818,2003,07133,"      Bad Kreuznach, Landkreis",51.5
+819,2003,07134,"      Birkenfeld, Landkreis",54.4
+820,2003,07135,"      Cochem-Zell, Landkreis",65.5
+821,2003,07137,"      Mayen-Koblenz, Landkreis",66.4
+822,2003,07138,"      Neuwied, Landkreis",62.8
+823,2003,07140,      Rhein-Hunsrück-Kreis,69.0
+824,2003,07141,      Rhein-Lahn-Kreis,70.8
+825,2003,07143,      Westerwaldkreis,62.5
+827,2003,07231,"      Bernkastel-Wittlich, Landkreis",66.6
+828,2003,07232,      Eifelkreis Bitburg-Prüm,62.2
+829,2003,07233,"      Vulkaneifel, Landkreis",56.7
+830,2003,07235,"      Trier-Saarburg, Landkreis",64.4
+841,2003,07331,"      Alzey-Worms, Landkreis",55.5
+842,2003,07332,"      Bad Dürkheim, Landkreis",60.4
+843,2003,07333,      Donnersbergkreis,56.9
+844,2003,07334,"      Germersheim, Landkreis",57.3
+845,2003,07335,"      Kaiserslautern, Landkreis",51.5
+846,2003,07336,"      Kusel, Landkreis",52.4
+847,2003,07337,"      Südliche Weinstraße, Landkreis",59.5
+848,2003,07338,      Rhein-Pfalz-Kreis,59.3
+849,2003,07339,"      Mainz-Bingen, Landkreis",57.5
+850,2003,07340,"      Südwestpfalz, Landkreis",53.0
+853,2002,07131,"      Ahrweiler, Landkreis",68.4
+854,2002,07132,"      Altenkirchen (Westerwald), Landkreis",59.0
+855,2002,07133,"      Bad Kreuznach, Landkreis",68.1
+856,2002,07134,"      Birkenfeld, Landkreis",56.8
+857,2002,07135,"      Cochem-Zell, Landkreis",70.1
+858,2002,07137,"      Mayen-Koblenz, Landkreis",67.7
+859,2002,07138,"      Neuwied, Landkreis",66.0
+860,2002,07140,      Rhein-Hunsrück-Kreis,69.2
+861,2002,07141,      Rhein-Lahn-Kreis,71.4
+862,2002,07143,      Westerwaldkreis,60.2
+864,2002,07231,"      Bernkastel-Wittlich, Landkreis",66.9
+865,2002,07232,      Eifelkreis Bitburg-Prüm,62.3
+866,2002,07233,"      Vulkaneifel, Landkreis",55.5
+867,2002,07235,"      Trier-Saarburg, Landkreis",61.4
+878,2002,07331,"      Alzey-Worms, Landkreis",75.1
+879,2002,07332,"      Bad Dürkheim, Landkreis",73.0
+880,2002,07333,      Donnersbergkreis,71.6
+881,2002,07334,"      Germersheim, Landkreis",62.7
+882,2002,07335,"      Kaiserslautern, Landkreis",61.2
+883,2002,07336,"      Kusel, Landkreis",57.8
+884,2002,07337,"      Südliche Weinstraße, Landkreis",70.5
+885,2002,07338,      Rhein-Pfalz-Kreis,72.1
+886,2002,07339,"      Mainz-Bingen, Landkreis",72.5
+887,2002,07340,"      Südwestpfalz, Landkreis",59.0
+890,2001,07131,"      Ahrweiler, Landkreis",73.1
+891,2001,07132,"      Altenkirchen (Westerwald), Landkreis",63.1
+892,2001,07133,"      Bad Kreuznach, Landkreis",67.5
+893,2001,07134,"      Birkenfeld, Landkreis",53.9
+894,2001,07135,"      Cochem-Zell, Landkreis",69.6
+895,2001,07137,"      Mayen-Koblenz, Landkreis",77.6
+896,2001,07138,"      Neuwied, Landkreis",73.8
+897,2001,07140,      Rhein-Hunsrück-Kreis,73.5
+898,2001,07141,      Rhein-Lahn-Kreis,75.5
+899,2001,07143,      Westerwaldkreis,63.7
+901,2001,07231,"      Bernkastel-Wittlich, Landkreis",67.6
+902,2001,07232,      Eifelkreis Bitburg-Prüm,63.0
+903,2001,07233,"      Vulkaneifel, Landkreis",58.4
+904,2001,07235,"      Trier-Saarburg, Landkreis",64.6
+915,2001,07331,"      Alzey-Worms, Landkreis",77.6
+916,2001,07332,"      Bad Dürkheim, Landkreis",70.4
+917,2001,07333,      Donnersbergkreis,71.6
+918,2001,07334,"      Germersheim, Landkreis",66.5
+919,2001,07335,"      Kaiserslautern, Landkreis",63.5
+920,2001,07336,"      Kusel, Landkreis",62.4
+921,2001,07337,"      Südliche Weinstraße, Landkreis",72.4
+922,2001,07338,      Rhein-Pfalz-Kreis,72.7
+923,2001,07339,"      Mainz-Bingen, Landkreis",82.1
+924,2001,07340,"      Südwestpfalz, Landkreis",58.8
+927,2000,07131,"      Ahrweiler, Landkreis",60.7
+928,2000,07132,"      Altenkirchen (Westerwald), Landkreis",62.4
+929,2000,07133,"      Bad Kreuznach, Landkreis",63.7
+930,2000,07134,"      Birkenfeld, Landkreis",56.5
+931,2000,07135,"      Cochem-Zell, Landkreis",67.7
+932,2000,07137,"      Mayen-Koblenz, Landkreis",69.0
+933,2000,07138,"      Neuwied, Landkreis",62.5
+934,2000,07140,      Rhein-Hunsrück-Kreis,66.7
+935,2000,07141,      Rhein-Lahn-Kreis,69.5
+936,2000,07143,      Westerwaldkreis,59.3
+938,2000,07231,"      Bernkastel-Wittlich, Landkreis",62.4
+939,2000,07232,      Eifelkreis Bitburg-Prüm,61.9
+940,2000,07233,"      Vulkaneifel, Landkreis",59.9
+941,2000,07235,"      Trier-Saarburg, Landkreis",62.6
+952,2000,07331,"      Alzey-Worms, Landkreis",70.7
+953,2000,07332,"      Bad Dürkheim, Landkreis",70.9
+954,2000,07333,      Donnersbergkreis,69.2
+955,2000,07334,"      Germersheim, Landkreis",61.7
+956,2000,07335,"      Kaiserslautern, Landkreis",59.8
+957,2000,07336,"      Kusel, Landkreis",59.1
+958,2000,07337,"      Südliche Weinstraße, Landkreis",66.4
+959,2000,07338,      Rhein-Pfalz-Kreis,67.6
+960,2000,07339,"      Mainz-Bingen, Landkreis",70.5
+961,2000,07340,"      Südwestpfalz, Landkreis",62.4
+964,1999,07131,"      Ahrweiler, Landkreis",58.0
+965,1999,07132,"      Altenkirchen (Westerwald), Landkreis",57.3
+966,1999,07133,"      Bad Kreuznach, Landkreis",64.7
+967,1999,07134,"      Birkenfeld, Landkreis",58.5
+968,1999,07135,"      Cochem-Zell, Landkreis",66.8
+969,1999,07137,"      Mayen-Koblenz, Landkreis",71.1
+970,1999,07138,"      Neuwied, Landkreis",61.4
+971,1999,07140,      Rhein-Hunsrück-Kreis,70.3
+972,1999,07141,      Rhein-Lahn-Kreis,68.6
+973,1999,07143,      Westerwaldkreis,56.9
+975,1999,07231,"      Bernkastel-Wittlich, Landkreis",63.0
+976,1999,07232,      Eifelkreis Bitburg-Prüm,60.8
+977,1999,07233,"      Vulkaneifel, Landkreis",58.3
+978,1999,07235,"      Trier-Saarburg, Landkreis",62.2
+989,1999,07331,"      Alzey-Worms, Landkreis",73.4
+990,1999,07332,"      Bad Dürkheim, Landkreis",69.0
+991,1999,07333,      Donnersbergkreis,71.6
+992,1999,07334,"      Germersheim, Landkreis",67.0
+993,1999,07335,"      Kaiserslautern, Landkreis",57.4
+994,1999,07336,"      Kusel, Landkreis",58.7
+995,1999,07337,"      Südliche Weinstraße, Landkreis",70.2
+996,1999,07338,      Rhein-Pfalz-Kreis,68.2
+997,1999,07339,"      Mainz-Bingen, Landkreis",73.5
+998,1999,07340,"      Südwestpfalz, Landkreis",61.6

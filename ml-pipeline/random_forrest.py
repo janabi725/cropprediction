@@ -6,7 +6,7 @@ import numpy as np
 import joblib
 
 # bawu_ertrag = pd.read_csv('/Users/sohailludin/Desktop/01 Arbeit/01 Universität /03 Master/02 2. Semester/06 Softwarearchitekturen/Labor/cropprediction/data/clean/winterweizen_geerntet.csv')
-bawu_ertrag = pd.read_csv('../data/clean/winterweizen_geerntet.csv')
+bawu_ertrag = pd.read_csv('/Users/sohailludin/Desktop/01 Arbeit/01 Universität /03 Master/02 2. Semester/06 Softwarearchitekturen/Labor/cropprediction/data/yield_pipeline/clean/bawu_winterweizen_geerntet.csv')
 
 #Dummy Daten
 np.random.seed(42)
